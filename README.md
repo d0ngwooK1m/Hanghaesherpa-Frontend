@@ -48,3 +48,4 @@ database: mysql (sequelize)
 ## DB diagram
 
 ![DB](/readmeImg/DB.png)
+>>>>>>> 7672c4c7e46a2d814cd46d8b09917fe0f8a5e7c5
